@@ -41,6 +41,7 @@ protoformFilter.items = {
     [189145] = true, -- Helicid Lattice
     [189147] = true, -- Leporid Lattice
     [189388] = true, -- Lupine Lattice
+    [190388] = true, -- Lupine Lattice	(RAR - 11 April 2022)
     [189148] = true, -- Poultrid Lattice
     [189149] = true, -- Proto Avian Lattice
     [189150] = true, -- Raptora Lattice
